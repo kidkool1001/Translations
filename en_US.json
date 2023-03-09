@@ -731,7 +731,7 @@
     "UNLOCKS_DESC" : "To unlock R* dev stuff enable dev dlc in settings",
     "ADMIN_CLOTHES" : "Admin Clothes",
     "SKIP_PREP" : "Skip Prep",
-    "HARDMODE" : "Hard Mode"
+    "HARDMODE" : "Hard Mode",
     "CMD_EXECUTOR_TITLE": "Complexity Command Executor",
     "CMD_EXECUTOR_TYPE_CMD": "Type your command",
     "CMD_EXECUTOR_NO_CMD": "No commands could be found. :(",
